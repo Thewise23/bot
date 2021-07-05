@@ -1,0 +1,5 @@
+﻿1. Login Binance
+2. Masuk Manajemen api
+3. Buat api 
+4. masukan ke config bot
+5. start bot
