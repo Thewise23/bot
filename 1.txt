@@ -1,0 +1,7 @@
+﻿1. Login Binance
+2. Masuk Manajemen api
+3. Buat api 
+4. masukan ke config bot
+5. buka command prompt
+6. masuk ke direktori bot
+7. start dengan python bot.py
